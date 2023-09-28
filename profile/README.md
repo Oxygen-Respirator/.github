@@ -27,8 +27,9 @@ AI 멘토 **채찍-PT**는 이러한 고민을 해결하기 위해 탄생했습�
 <br>
 <br>
 
+> **💡** 프로젝트에 대해 자세한 내용이 궁금하다면? <br>
+>> <a href="https://annajin.notion.site/PT-75085d9bf075458fbf645e806a179a24?pvs=4">View in Notion</a>
 
-### [View in Notion](https://annajin.notion.site/PT-75085d9bf075458fbf645e806a179a24?pvs=4)
 
 <br><br>
 ![line](https://github.com/Oxygen-Respirator/.github/assets/90380269/d34886a2-c329-41c2-b7de-6b23b54bc1c8)
